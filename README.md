@@ -2,6 +2,8 @@
 
 **`Suporte TI N1 E N2`**
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE4ZmN1dnJrcGRiYzZ6MHhhc2E3ZWxwaWQya3g5dDF1eDB4bnduciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuneqBUC5kiLUA/giphy.gif" width="100%" alt="Banner do Cabeçalho" />
+
 Meu nome é Edcarlos Palace Junior, tenho 25 anos e sou natural do Paraná. Sou formado em Análise e Desenvolvimento de Sistemas pela UNICEV e atuo na área de Suporte de TI N2.
 
 Possuo experiência em suporte e atendimento a usuários, com atuação em ambientes de sustentação de sistemas, correção de bugs, monitoramento em tempo real e atendimento e acompanhamento de chamados. Também tenho experiência com atendimento N1 e N2, relacionamento com clientes e identificação e resolução de incidentes, sempre buscando oferecer um atendimento ágil e eficiente.
