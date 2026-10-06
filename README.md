@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Edcarlos Palace
 
-**`Desenvolvedora FullStack`**
+**`Suporte TI N1 E N2`**
 
 Meu nome é Edcarlos Palace Junior, tenho 25 anos e sou natural do Paraná. Sou formado em Análise e Desenvolvimento de Sistemas pela UNICEV e atuo na área de Suporte de TI N2.
 
