@@ -20,16 +20,10 @@ Tenho perfil voltado à resolução de problemas, trabalho em equipe e melhoria 
         />
     </a>
     <a href="https://github.com/ed-palace?tab=followers">
-        <img 
-            alt="Seguidores" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ed-palace?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&        lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bgn5fcf5PSEWY9fEzktwbJA%3D%3D">
-        <img 
-            alt="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ed-palace?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=linkedin&logoColor=white"
-        />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     
 </p>
