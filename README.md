@@ -33,49 +33,23 @@ Tenho perfil voltado à resolução de problemas, trabalho em equipe e melhoria 
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="node"
-    title="node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-<img 
-    align="left" 
-    alt="VUE" 
-    title="Vue"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Neo4j" 
-    title="neo4j"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Github"
-    title="GitHub" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
 
-<br/>
-<br/>
+
+<div align="center">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,vue,vuetify,docker,git,github,vscode,grafana,nodejs,postman&perline=10" />
+  </a>
+
+  <br /><br />
+
+  <!-- Badges adicionais para tecnologias específicas -->
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" />
+
+</div>
+
+
 
 ### 📊 Estatísticas
 
