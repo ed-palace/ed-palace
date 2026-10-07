@@ -38,7 +38,7 @@ Tenho perfil voltado à resolução de problemas, trabalho em equipe e melhoria 
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,vue,vuetify,docker,git,github,vscode,grafana,nodejs,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,vue,vuetify,docker,git,github,vscode,grafana,postman&perline=10" />
   </a>
 
   <br /><br />
